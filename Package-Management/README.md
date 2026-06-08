@@ -1,3 +1,12 @@
 # Package Management
 
-This section contains notes related to Linux package management systems such as APT, YUM, DNF, and RPM.
+This section covers Linux package management concepts including package installation, repositories, dependency management, and comparisons between Debian and Red Hat package ecosystems.
+
+## Contents
+
+- Package Management in Linux
+- YUM vs RPM
+- Debian vs Red Hat
+- DPKG vs APT
+- APT vs APT-GET
+- Hands-on-Practicals
